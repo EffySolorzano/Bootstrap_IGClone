@@ -1,0 +1,52 @@
+:root{
+    --white: #ffffff
+    --grey: #fafafa;
+}
+.bg-grey { background-color: var(--grey);}
+.bg-light {background-color: var(--light);}
+
+.navbar{
+    min-height: 2rem;
+}
+
+i.lead{
+    font-size: 1.5rem;
+}
+._ab6-{
+    margin-right: 750px;
+}
+img{
+    max-width: 100%;
+    
+}
+.gallery{
+    padding-top: 50px;
+    padding-bottom: 80px;;
+    padding-left: 0;
+    padding-right: 0;
+}
+.Post{
+    width: 550px;
+    background-color: whitesmoke;
+    border-radius: 0.5em;
+    border-color: rgb(228, 227, 227);
+    align-items: center;
+    margin-left: 18rem;
+    margin-right: 18rem;
+    margin-bottom: 2rem;
+}
+.header{
+    display: flex;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    justify-content: space-between;
+    
+}
+.text-bottom{
+ 
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-bottom: 1px;
+    align-items: center;
+}
